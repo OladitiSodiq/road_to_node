@@ -11,7 +11,11 @@
   "dependencies": {
     "body-parser": "^1.19.0",
     "ejs": "^3.0.1",
+<<<<<<< HEAD
     "express": "^4.17.1",
     "request": "^2.88.0"
+=======
+    "express": "^4.17.1"
+>>>>>>> 99cad0a9381707c40665ae70ad82c501dc860697
   }
 }
